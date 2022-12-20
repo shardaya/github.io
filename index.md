@@ -1,4 +1,4 @@
-### Background
+#### Background
 
 I was born in Bali, Indonesia, and moved to Jakarta to get my bachelor degree in Industrial Engineering from the Universitas Indonesia (UI). I co-led research at the Laboratory of Statistics and Quality Engineering at UI under the supervisions of [Professor Isti Surjandari](http://research.eng.ui.ac.id/researcher/isti) and [Dr. Arian Dhini](http://research.eng.ui.ac.id/researcher/arian). I then spent a little under five years as Analytics Consultant at IBM and Deloitte Consulting where I worked with clients across the public sectors, oil & gas, logistics, telco, retail, and financial services. Currently I'm pursuing my master degree in Business Analytics at Columbia.
 
